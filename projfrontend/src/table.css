@@ -1,0 +1,22 @@
+
+table{
+    background-color:rgba(59, 54, 82, 0.884)
+}
+th{
+    color:rgb(252, 0, 0);
+    background-color:rgb(194, 216, 216);
+    border:1px solid black;
+
+}
+
+td{
+    /* padding-left:3rem */
+    text-align: center;
+    border:1px solid black;
+
+}
+
+tr{
+    background-color:rgb(247, 218, 245);
+
+}
